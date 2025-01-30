@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="bcp.yape.bo.services.wcf.PeopleService" CodeBehind="PeopleService.svc.cs" %>

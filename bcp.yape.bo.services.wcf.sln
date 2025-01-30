@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bcp.yape.bo.services.wcf", "bcp.yape.bo.services.wcf\bcp.yape.bo.services.wcf.csproj", "{0D3CF4D7-758B-42C5-B4B8-D940A53A48C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bcp.yape.bo.services.rules", "bcp.yape.bo.services.rules\bcp.yape.bo.services.rules.csproj", "{5FDEEA2E-2178-4A1E-BCD5-F574DE4BF7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3CF4D7-758B-42C5-B4B8-D940A53A48C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3CF4D7-758B-42C5-B4B8-D940A53A48C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3CF4D7-758B-42C5-B4B8-D940A53A48C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3CF4D7-758B-42C5-B4B8-D940A53A48C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDEEA2E-2178-4A1E-BCD5-F574DE4BF7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDEEA2E-2178-4A1E-BCD5-F574DE4BF7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDEEA2E-2178-4A1E-BCD5-F574DE4BF7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDEEA2E-2178-4A1E-BCD5-F574DE4BF7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD77C85-8FF8-4E68-9662-0DCC906363F2}
+	EndGlobalSection
+EndGlobal
